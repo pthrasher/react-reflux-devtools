@@ -1,4 +1,6 @@
-# React Developer Tools
+# React Reflux Developer Tools
+
+*Note*: This is a work in progress. I intend on releasing a rough version soon, (end of june 2015) -- Until then, if you install this, it'll probably be broken / not have any new features beyond the main react devtools. Come back in July.
 
 React Developer Tools is a Chrome extension that allows you to inspect the React
 component hierarchy in the Chrome Developer Tools (formerly WebKit Web
